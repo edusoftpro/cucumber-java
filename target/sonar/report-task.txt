@@ -1,0 +1,6 @@
+projectKey=java-cucumber
+serverUrl=http://localhost:9000
+serverVersion=9.0.1.46107
+dashboardUrl=http://localhost:9000/dashboard?id=java-cucumber
+ceTaskId=AYiG63_OB2Be4OTkYwVS
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYiG63_OB2Be4OTkYwVS
